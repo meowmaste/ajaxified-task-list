@@ -1,11 +1,5 @@
-# RailsCasts Example Application
+# 136 (Revised) RailsCasts Example Application
 
-Run these commands to try it out.
+Rails 3
 
-```
-bundle
-rake db:setup
-rails s
-```
 
-Requires Ruby 1.9.2 or later to run.
